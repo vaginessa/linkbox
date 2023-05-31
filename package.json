@@ -10,7 +10,7 @@
     "@awesome-cordova-plugins/web-intent": "^5.46.0",
     "@capacitor/android": "^4.0.0",
     "@capacitor/app": "^4.0.0",
-    "@capacitor/cli": "^4.0.0",
+    "@capacitor/cli": "^4.8.0",
     "@capacitor/core": "^4.0.0",
     "@capacitor/filesystem": "^4.0.0",
     "@capacitor/haptics": "^4.0.0",
